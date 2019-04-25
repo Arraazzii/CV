@@ -1,0 +1,60 @@
+@charset "utf-8";
+/*
+YUI 3.5.0 (build 5089)
+Copyright 2012 Yahoo! Inc. All rights reserved.
+Licensed under the BSD License.
+http://yuilibrary.com/license/
+*/
+
+html {
+  color: #000;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+  margin: 0;
+  padding: 0;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+fieldset, img {
+  border: 0;
+}
+ol, ul {
+  list-style: none;
+}
+caption, th {
+  text-align: left;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+input, textarea, select {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
+input, textarea, select {
+*font-size:100%;
+}
+a{color:#0A00FF;}
+/*a:link{text-decoration:underline;}*/
+/*a:visited{text-decoration:underline;}*/
+a:hover{text-decoration:none;cursor:pointer!important;}
+a:active{text-decoration:underline;}
+
+/* clearfix ------- */
+.clearfix:before, .clearfix:after {
+  content: "";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+.clearfix {
+  zoom: 1;
+}
+ .box-valid label {float:left}
+
+ .box-valid{float:none; margin:90px auto;border-style: solid;padding: 15px;padding-top:30px;border-color: rgba(128, 128, 128, 0.21);border-radius: 10px;text-align:center; background-color:#fff}

@@ -1,0 +1,59 @@
+/* START BANNER */
+
+.background {
+    background-size: cover;
+    background-image: url(../images/bg_result_static.jpg);
+    min-height: 260px;
+}
+.banner_title {
+  margin-top: 100px;
+}
+.navbanner {
+  margin-top: 70px;
+  margin-bottom: 10px;
+}
+
+.navbanner a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  margin: 10px;
+  letter-spacing: 1px;
+}
+.navbanner a:hover {
+  color: #f9cd3a;
+}
+
+/* END BANNER */
+
+/* START CONTENT */
+
+.section1 {
+  color: black;
+  background-color: #F6F5F5;
+}
+.section2 {
+  color: black;
+  background-color: white;
+}
+.container_section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.subtitle {
+  margin-top: 40px;
+  font-weight: bold;
+}
+.subtitle2 {
+  margin-top: 30px;
+  font-weight: bold;
+}
+.myparagraph {
+  margin-top: 20px;
+  line-height: 2;
+  text-align: justify;
+}
+
+
+
+/* END CONTENT */
