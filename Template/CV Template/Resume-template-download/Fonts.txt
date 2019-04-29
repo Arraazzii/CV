@@ -1,0 +1,5 @@
+Fonts used:
+
+- Myriad Pro (Included in the Operative System).
+
+- ChunkFive (http://www.fontsquirrel.com/fonts/ChunkFive)

@@ -1,0 +1,14 @@
+Fonts used in this design;
+
+Font: BodoniXT, 
+Author: Manfred Klein Fonteria, 
+Url: http://www.fontsquirrel.com/fonts/BodoniXT; 
+
+Font: Comfortaa, 
+Author: Johan Aakerlund, 
+Url: http://www.fontsquirrel.com/fonts/Comfortaa; 
+
+Font: Nexa, 
+Author: Fontfabric, 
+Url: http://www.fontsquirrel.com/fonts/nexa; 
+
